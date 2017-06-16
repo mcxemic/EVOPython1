@@ -11,6 +11,7 @@ def optimize_data(string, dictionary):
     :return pretty output with data from dictionary:
     """
     try:
+
         string = string.split('\n')
         dat = []
 
